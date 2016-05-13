@@ -21,7 +21,7 @@ class Socially implements OnInit {
 	ngOnInit(){
 		
 		this.parties=this.collection.fetch().values();
-		console.log(this.collection.fetch().
+		// console.log(this.collection.fetch().
 	}
 
 
