@@ -1,13 +1,29 @@
-<h1>hello component</h1>
-<p>1 + 2 = {{ 1 / 4 }}</p>
+<h1>Parties List</h1>
 
+<button (click)="addParty()">add default party</button>
 
 <div>
   <ul>
     <li *ngFor="let party of parties">
-      {{party.name}}
-      <p>{{party.description}}</p>
-      <p>{{party.location}}</p>
+      <form (change)="saveParty(party)">
+	  	<label>Name</label><br>
+	  	<input type="text" [(ngModel)]="party.name">
+	 	
+	 	<br>
+	  	<label>Location</label><br>
+	  	<input type="text" [(ngModel)]="party.location" />  
+	 	
+	 	<br>
+	  	<label>Description</label><br>
+	  	<input type="text" [(ngModel)]="party.description">
+	 	
+	 	<br>
+		<button type="submit">Save</button>
+  	  	<button (click)="removeParty(party)">delete</button>
+  	  	<br>
+  	  	<br>
+  	  	<br>
+  	  </form>
     </li>
   </ul>
 </div>

@@ -1,28 +1,31 @@
-import {Parties} from '../collections/parties.ts';
+import { PartyCollection } from '../collections/PartyCollection';
+import { Party } from '../models/Party';
 
 export function loadParties() {
-  if (Parties.find().count() === 0) {
+  if (PartyCollection.find().count() === 0) {
 
-    var parties = [
-      {
-        'name': 'Dubstep-Free Zone',
-        'description': 'Can we please just for an evening not listen to dubstep.',
-        'location': 'Palo Alto'
-      },
-      {
-        'name': 'All dubstep all the time',
-        'description': 'Get it on!',
-        'location': 'Palo Alto'
-      },
-      {
-        'name': 'Savage lounging',
-        'description': 'Leisure suit required. And only fiercest manners.',
-        'location': 'San Francisco'
-      }
-    ];
+    let parties:[Party];
+
+    parties.push(new Party(
+      'Dubstep-Free Zone',
+      'Can we please just for an evening not listen to dubstep.',
+      'Palo Alto'
+    ));
+
+    parties.push(new Party(
+      'All dubstep all the time',
+      'Get it on!',
+      'Palo Alto'
+    ));
+
+    parties.push(new Party(
+      'Savage lounging',
+      'Leisure suit required. And only fiercest manners.',
+      'San Francisco'
+    ));
 
     for (var i = 0; i < parties.length; i++) {
-      Parties.insert(parties[i]);
+      PartyCollection.insert(parties[i]);
     }
   }
 };
