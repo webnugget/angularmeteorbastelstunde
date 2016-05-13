@@ -11,27 +11,16 @@ import {MeteorComponent} from 'angular2-meteor';
 	selector: 'app',
 	templateUrl: 'client/app.html'
 })
-<<<<<<< HEAD
-class Socially implements OnInit {
-	collection: Mongo.Cursor<Object>;
-	parties;
-
-=======
 class Socially extends MeteorComponent implements OnInit  {
 	parties: Mongo.Cursor<any>;
 	
->>>>>>> 41ad4fd1d1123527a2adefb9416a50509976fba7
+
 	constructor () {
-		super();
-		console.log(Parties);
-		
+		super();		
 	}
 
 	ngOnInit(){
 
-<<<<<<< HEAD
-		this.parties=this.collection.fetch().values();
-=======
 		this.autorun(() => {
 			console.log('autorun');
 			this.subscribe('parties', () => {
@@ -39,10 +28,7 @@ class Socially extends MeteorComponent implements OnInit  {
 				console.log('joschi');
 			}, true);
 		}, true);
-	 	// console.log(this.parties.fetch());	
-		// this.parties=this.collection.fetch().values();
->>>>>>> 41ad4fd1d1123527a2adefb9416a50509976fba7
-		// console.log(this.collection.fetch().
+	 	
 	}
 
 
