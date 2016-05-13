@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li *ngFor="let party of parties">
-      <form (change)="saveParty(party)">
+      <form (submit)="saveParty(party)">
 	  	<label>Name</label><br>
 	  	<input type="text" [(ngModel)]="party.name">
 	 	
