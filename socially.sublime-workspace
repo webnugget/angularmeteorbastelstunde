@@ -1,0 +1,2206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"newMaxdatetime"
+			],
+			[
+				"new",
+				"newMaxdatetime"
+			],
+			[
+				"ma",
+				"maxdate"
+			],
+			[
+				"get",
+				"getMinutes"
+			],
+			[
+				"min",
+				"mindate"
+			],
+			[
+				"res",
+				"restrictions"
+			],
+			[
+				"_",
+				"_hours"
+			],
+			[
+				"date",
+				"dateInvalid"
+			],
+			[
+				"re",
+				"refresh"
+			],
+			[
+				"hide",
+				"hideTitle"
+			],
+			[
+				"ch",
+				"chartOptions"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ne",
+				"newConfig"
+			],
+			[
+				"high",
+				"highcharts-container"
+			],
+			[
+				"co",
+				"completerValues"
+			],
+			[
+				"s",
+				"searchValue"
+			],
+			[
+				"que",
+				"queryString"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"st",
+				"stateParams"
+			],
+			[
+				"instance",
+				"instanceName"
+			],
+			[
+				"nj",
+				"NjTreeEntryBinding"
+			],
+			[
+				"code",
+				"codemirrorHeight"
+			],
+			[
+				"event",
+				"eventListener"
+			],
+			[
+				"wa",
+				"watcher"
+			],
+			[
+				"r",
+				"reload"
+			],
+			[
+				"wat",
+				"watchers"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"njTr",
+				"njTreeRefreshEvents"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"quer",
+				"queryParams"
+			],
+			[
+				"query",
+				"queryString"
+			],
+			[
+				"njQ",
+				"njQueryParams"
+			],
+			[
+				"njQuer",
+				"njQueryString"
+			],
+			[
+				"stat",
+				"stateResponse"
+			],
+			[
+				"TreeE",
+				"njTreeEntry"
+			],
+			[
+				"loaded",
+				"loadedQuery"
+			],
+			[
+				"loa",
+				"loadedQuery"
+			],
+			[
+				"loade",
+				"loadedQuery"
+			],
+			[
+				"load",
+				"loadQuery"
+			],
+			[
+				"S",
+				"StateToSave"
+			],
+			[
+				"to",
+				"toJson"
+			],
+			[
+				"tree",
+				"treeEntry"
+			],
+			[
+				"q",
+				"queryString"
+			],
+			[
+				"qu",
+				"queryString"
+			],
+			[
+				"in",
+				"includeAllFilters"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"de",
+				"description	@description"
+			],
+			[
+				"sta",
+				"stateSaverOptions"
+			],
+			[
+				"seriali",
+				"serializedQuery"
+			],
+			[
+				"te",
+				"textcompletePopupVisibleEvent"
+			],
+			[
+				"textcompletePopUp",
+				"textcompletePopupVisible"
+			],
+			[
+				"use",
+				"usedKeys"
+			],
+			[
+				"wi",
+				"widthWatcher"
+			],
+			[
+				"B",
+				"BindingState"
+			],
+			[
+				"A",
+				"AppState"
+			],
+			[
+				"app",
+				"appState"
+			],
+			[
+				"ngf",
+				"ngfactory	angular.factory"
+			],
+			[
+				"histor",
+				"historyEntry"
+			],
+			[
+				"sho",
+				"showEditIntervalModal"
+			],
+			[
+				"cont",
+				"containerSettings"
+			],
+			[
+				"njCon",
+				"njContainerFactory"
+			],
+			[
+				"njPr",
+				"njProcessTab"
+			],
+			[
+				"register",
+				"registerContainer"
+			],
+			[
+				"con",
+				"containerId"
+			],
+			[
+				"regist",
+				"registerContainers"
+			],
+			[
+				"menui",
+				"menuItems"
+			],
+			[
+				"menu",
+				"menuItems"
+			],
+			[
+				"view",
+				"viewConfig"
+			],
+			[
+				"v",
+				"viewContentLoading"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"size",
+				"sizeClass"
+			],
+			[
+				"c",
+				"calculatePreviousAndNextDimensions"
+			],
+			[
+				"show",
+				"showTogglebutton"
+			],
+			[
+				"sh",
+				"showTogglebutton"
+			],
+			[
+				"pre",
+				"previousElement"
+			],
+			[
+				"toggle",
+				"togglestate"
+			],
+			[
+				"last",
+				"last-container"
+			],
+			[
+				"Right",
+				"toggleRight"
+			],
+			[
+				"togg",
+				"toggled"
+			],
+			[
+				"toggl",
+				"toggleState"
+			],
+			[
+				"contain",
+				"containerSettings"
+			],
+			[
+				"tog",
+				"toggledLeft"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"init",
+				"initWatcher"
+			],
+			[
+				"initi",
+				"initialize"
+			],
+			[
+				"resize",
+				"resizer"
+			],
+			[
+				"pr",
+				"previous"
+			],
+			[
+				"contai",
+				"containerSettings"
+			],
+			[
+				"prevel",
+				"previousElement"
+			],
+			[
+				"overfl",
+				"overflow-y"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"rese",
+				"resetSize"
+			],
+			[
+				"mirro",
+				"mirrorStyle"
+			],
+			[
+				"height",
+				"heightValue"
+			],
+			[
+				"hei",
+				"heightValue"
+			],
+			[
+				"nex",
+				"next"
+			],
+			[
+				"attr",
+				"attrs"
+			],
+			[
+				"prev",
+				"previous"
+			],
+			[
+				"next",
+				"nextElement"
+			],
+			[
+				"tr",
+				"treesize"
+			],
+			[
+				"toggled",
+				"toggledRight"
+			],
+			[
+				"t",
+				"toggle"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"ii",
+				"initialWidthpreviousElement"
+			],
+			[
+				"sp",
+				"specialChars"
+			],
+			[
+				"comple",
+				"completer"
+			],
+			[
+				"old",
+				"oldTreeEntry"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"se",
+				"searchKey"
+			],
+			[
+				"used",
+				"usedKey"
+			],
+			[
+				"resul",
+				"resultItem"
+			],
+			[
+				"lo",
+				"lowercasepath"
+			],
+			[
+				"followupCe",
+				"followupCreatedBy"
+			],
+			[
+				"main",
+				"mainObjectId"
+			],
+			[
+				"njL",
+				"njLayout-resizer-toggle"
+			],
+			[
+				"ng",
+				"nglog	angular.log"
+			],
+			[
+				"seri",
+				"serializedQuery"
+			],
+			[
+				"ser",
+				"serializedQuery"
+			],
+			[
+				"param",
+				"paramBackup"
+			],
+			[
+				"cu",
+				"currentEntry"
+			],
+			[
+				"time",
+				"TimepickerEntries"
+			],
+			[
+				"qe",
+				"queryString"
+			],
+			[
+				"ic",
+				"instanceof"
+			],
+			[
+				"Tree",
+				"njTreeEntry"
+			],
+			[
+				"en",
+				"Entry"
+			],
+			[
+				"is",
+				"isDefined"
+			],
+			[
+				"J",
+				"jobStart"
+			],
+			[
+				"disa",
+				"disable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "clo",
+		"selected_items":
+		[
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"svn log",
+				"SVN: Log"
+			],
+			[
+				"svn u",
+				"SVN: Update"
+			],
+			[
+				"svn com",
+				"SVN: Commit…"
+			],
+			[
+				"svn lo",
+				"SVN: Log"
+			],
+			[
+				"svn re",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"svn r",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"svn ",
+				"SVN: Commit…"
+			],
+			[
+				"svn l",
+				"SVN: Log"
+			],
+			[
+				"svn di",
+				"SVN: Diff"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"svn up",
+				"SVN: Update"
+			],
+			[
+				"svn s",
+				"SVN: Status"
+			],
+			[
+				"svn cl",
+				"SVN: Cleanup"
+			],
+			[
+				"svn c",
+				"SVN: Cleanup"
+			],
+			[
+				"svn dif",
+				"SVN: (File) Diff, Custom Revisions…"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"svn co",
+				"SVN: Commit…"
+			],
+			[
+				"svn",
+				"SVN: Commit…"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ngdoc",
+				"Snippet: $ngdoc - initiating complete skeleton with all @ngdoc-properties"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"svn comm",
+				"SVN: Commit…"
+			],
+			[
+				"js",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"svn st",
+				"SVN: Status"
+			],
+			[
+				"svn cm",
+				"SVN: Commit…"
+			],
+			[
+				"svn commit ",
+				"SVN: Commit…"
+			],
+			[
+				"snv di",
+				"SVN: Diff"
+			],
+			[
+				"svnr e",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"rever in",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"svnu",
+				"SVN: Update"
+			],
+			[
+				"s",
+				"Snippet: if"
+			],
+			[
+				"svnre",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"jsc",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"svn folder d",
+				"SVN: (Folder) Diff, Custom Revisions…"
+			],
+			[
+				"svn d",
+				"SVN: (File) Diff, Custom Revisions…"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"svn commit",
+				"SVN: Commit…"
+			],
+			[
+				"svn rev",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"set s",
+				"Set Syntax: Sass"
+			],
+			[
+				"set scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"SASS",
+				"SassBeautify"
+			],
+			[
+				"svn file",
+				"SVN: (File) Log"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"svn res",
+				"SVN: Resolve Tree Conflict, Interactive…"
+			],
+			[
+				"svn upda",
+				"SVN: Update"
+			],
+			[
+				"svn com ",
+				"SVN: (File) Commit"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"sa",
+				"SassBeautify"
+			],
+			[
+				"l",
+				"SVN: Log"
+			],
+			[
+				"svn add",
+				"SVN: (Folder) Add"
+			],
+			[
+				"svn de",
+				"SVN: (File) Delete"
+			],
+			[
+				"svn ad",
+				"SVN: (File) Add"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"svn a",
+				"SVN: Add, Interactive…"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"diff",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"com",
+				"SVN: Commit…"
+			],
+			[
+				"svn revert",
+				"SVN: Revert, Interactive…"
+			],
+			[
+				"sta",
+				"SVN: Status"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"add",
+				"SVN: Add, Interactive…"
+			],
+			[
+				"co",
+				"SVN: Commit…"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"al",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"n",
+				"ANF: New File"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"ne",
+				"File: New File Relative to Current View"
+			],
+			[
+				"mana",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"file",
+				"File: Refresh"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"des",
+				"Destroy all snippets!!"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"",
+				"AngularJS: Toggle - Disable JS Completions"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"new ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"p",
+				"Git: Push"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"rese",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"bran",
+				"Git (SideBarGit): Push All Branches"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"git b",
+				"Git: New Branch"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Snippet: a",
+				"Snippet: Angular2Component"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"contro",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"commit ",
+				"Git: Commit"
+			],
+			[
+				"res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"status",
+				"Git: Status"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"quit",
+			"exit",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/christian/projekte/evaluaierung/socially"
+	],
+	"file_history":
+	[
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReports.scss",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepicker/njElasticQueryTimepicker.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepicker/css/njElasticQueryTimepicker.scss",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepicker/njElasticQueryTimepicker.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryCustomtimeModal.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njQueryParams.model.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepickerEntries.factory.js",
+		"/tmp/sublime-svn-1463124027/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js",
+		"/tmp/sublime-svn-1463062529/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsInterval/njReportsInterval_div.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsInterval/njReportsInterval.js",
+		"/tmp/sublime-svn-1463061050/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsInterval/njReportsInterval.html",
+		"/tmp/sublime-svn-1463060336/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.constants.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryButtons/njElasticQueryQuerySaverToggle.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryAutocomplete.factory.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsActivityStats/njProcessDetailsActivityStats.html",
+		"/tmp/sublime-svn-1463055282/SVN",
+		"/tmp/sublime-svn-1463054124/SVN",
+		"/tmp/sublime-svn-1463051431/SVN",
+		"/tmp/sublime-svn-1463048005/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njRules/njRules.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsIntervalStats/njReportsIntervalStats.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsIntervalStats/njReportsIntervalStats.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsProcessStats/njReportsProcessStats.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReports.html",
+		"/home/christian/projekte/eightahead/nj-frontend/bower_components/highcharts/highstock.src.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsProcessStats/njReportsProcessStats.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsProcessChart/njProcessDetailsProcessChart.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsProcessChart/njProcessDetailsProcessChartFactory.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetails.html",
+		"/home/christian/projekte/eightahead/nj-frontend/bower.json",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsProcessChart/njProcessDetailsProcessChart.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njLayout/njLayout.resizer.directive.js",
+		"/tmp/sublime-svn-1462981105/SVN",
+		"/tmp/sublime-svn-1462981087/SVN",
+		"/tmp/sublime-svn-1462979946/SVN",
+		"/tmp/sublime-svn-1462979818/SVN",
+		"/tmp/sublime-svn-1462979586/SVN",
+		"/tmp/sublime-svn-1462977180/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/bower_components/highcharts/highstock.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njLayout/njContainer/njContainer.factory.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njProcess/njProcess.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/index.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReportsTop10/njReportsTop10.html",
+		"/tmp/sublime-svn-1462965597/SVN",
+		"/tmp/sublime-svn-1462962282/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njReports/njReports.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njDetails/css/njDetails.scss",
+		"/tmp/sublime-svn-1462958051/SVN",
+		"/tmp/sublime-svn-1462957451/SVN",
+		"/tmp/sublime-svn-1462957389/SVN",
+		"/tmp/sublime-svn-1462895687/SVN",
+		"/home/christian/.config/sublime-text-3/Packages/User/SassBeautify.sublime-settings",
+		"/home/christian/.config/sublime-text-3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/tmp/sublime-svn-1462868740/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njMain.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njLayout/njContainer/njContainer.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njLayout/njContainer/njContainer.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryInput.html",
+		"/tmp/sublime-svn-1462808823/SVN",
+		"/tmp/sublime-svn-1462866693/SVN",
+		"/tmp/sublime-svn-1462801348/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsConfig/njProcessDetailsConfig.js",
+		"/tmp/sublime-svn-1462808673/SVN",
+		"/tmp/sublime-svn-1462805401/SVN",
+		"/tmp/sublime-svn-1462804686/SVN",
+		"/tmp/sublime-svn-1462800363/SVN",
+		"/tmp/sublime-svn-1462799925/SVN",
+		"/tmp/sublime-svn-1462798809/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njRules/autocompleteRulesVariables.directive.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njAdministration/njLoggingOverview/njLoggingView/njLoggingView.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njAdministration/njLoggingOverview/njLoggingOverview.html",
+		"/tmp/sublime-svn-1462796927/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njAdministration/njAdministration.html",
+		"/tmp/sublime-svn-1462796040/SVN",
+		"/tmp/sublime-svn-1462795283/SVN",
+		"/tmp/sublime-svn-1462795218/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njRules/njRulesAction/njRulesAction.html",
+		"/tmp/sublime-svn-1462790088/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njProcess/njProcess.factory.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njDirectives/njSlideContent.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryButtons/njElasticQueryQuerystringReset.js",
+		"/tmp/sublime-svn-1462779027/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njHeader/njHeader.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njLogin/njConfigurationFactory.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njListContainer/njList/njList.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njQueryString.model.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryValidation/keywordParser.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryValidation/luceneValidator.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njMain.route.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njLogin/njLogin.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njHeader/njHeader.html",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njAdministration/njUserAdmin/njUserAdminFactory.spec.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njUser/njUser.userFactory.js",
+		"/home/christian/projekte/eightahead/nj-frontend/gulp/build.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/index.run.js",
+		"/home/christian/projekte/eightahead/nj-frontend/gulp/server.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njLogin/njLogin.html",
+		"/tmp/sublime-svn-1462778342/SVN",
+		"/tmp/sublime-svn-1462522199/SVN",
+		"/tmp/sublime-svn-1462522052/SVN",
+		"/tmp/sublime-svn-1462521133/SVN",
+		"/tmp/sublime-svn-1462518532/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njAdministration/njDataProviderAdmin/njDataProviderAdminList/njDataProviderAdminList.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njAdministration/njDataProviderAdmin/njDataProviderAdminFactory.js",
+		"/tmp/sublime-svn-1462517883/SVN",
+		"/tmp/sublime-svn-1462517860/SVN",
+		"/tmp/sublime-svn-1462517851/SVN",
+		"/tmp/sublime-svn-1462517564/SVN",
+		"/home/christian/projekte/evaluaierung/meteor-angular2.0-socially/package.json",
+		"/tmp/sublime-svn-1462374966/SVN",
+		"/tmp/sublime-svn-1462374766/SVN",
+		"/tmp/sublime-svn-1462367132/SVN",
+		"/tmp/sublime-svn-1462366403/SVN",
+		"/tmp/sublime-svn-1462365154/SVN",
+		"/tmp/sublime-svn-1462363677/SVN",
+		"/tmp/sublime-svn-1462363598/SVN",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njMain.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/index.route.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/njAppState/njBindingState.factory.js",
+		"/home/christian/projekte/eightahead/nj-frontend/src/app/index.module.js",
+		"/tmp/sublime-svn-1462362036/SVN",
+		"/tmp/sublime-svn-1462353735/SVN"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain/njProcess",
+			"/home/christian/projekte/eightahead/nj-frontend/src/app",
+			"<current file>",
+			"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain",
+			"<current file>",
+			"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain",
+			"/home/christian/projekte/eightahead/nj-frontend/src/app",
+			"<current file>",
+			"/home/christian/projekte/eightahead/nj-frontend/src/app/njMain",
+			"/home/christian/projekte/eightahead/nj-frontend/src",
+			"/home/christian/projekte/eightahead/nj-frontend/src/app",
+			"/home/christian/projekte/eightahead/nj-frontend/src",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/src/app",
+			"/var/projekte/eightahead/njams4-frontend/src/app/njMain/njElasticQuery",
+			"/var/projekte/eightahead/njams4-frontend/src/app/",
+			"/var/projekte/eightahead/njams4-frontend/src/app/njMain",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/src/app",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/src/app",
+			"/var/projekte/eightahead/njams4-frontend/src/app/njMain/njTree",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/src/app",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/src/app",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/src/app",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/src/app",
+			"/var/projekte/eightahead/njams4-frontend/src",
+			"/var/projekte/eightahead/njams4-frontend/src/app/njAdministration",
+			"<current file>",
+			"/var/projekte/eightahead/njams4-frontend/gulp",
+			"/var/projekte/eightahead/njams4-frontend/src/app/njAdministration/njUserAdministration",
+			"/var/projekte/eightahead/angular-1.5-boilerplate/src/app/njAdministration",
+			"/var/projekte/eightahead/angular-1.5-boilerplate/src",
+			"<current file>",
+			"<project>,-*node_modules*",
+			"/var/projekte/angular2/angular2-playground,-/var/projekte/angular2/angular2-playground/node_modules",
+			"<current file>",
+			"/var/projekte/saalfeld/assets/scss",
+			"<current file>",
+			"",
+			"/home/christian/projekte/saalfeld/assets",
+			"/home/christian/projekte/saalfeld/components",
+			"/home/christian/projekte/saalfeld/modules/",
+			"/home/christian/projekte/saalfeld/app/assets/scss",
+			"/home/christian/projekte/saalfeld/app",
+			"/home/christian/projekte/saalfeld/src/app/scss",
+			"/home/christian/projekte/kunstgewerbe-kitty-dev/app/design/frontend/rwd/default/layout",
+			"/home/christian/projekte/wordpress-dev/wp-content/themes/foundationpress",
+			"/home/christian/projekte/wordpress-dev/wp-content/themes/tutorial",
+			"<project>",
+			"/home/christian/projekte/yeti-stack/client",
+			"/home/christian/projekte/fapp-stack",
+			"/home/christian/projekte/fapp-stack/backend",
+			"/home/christian/projekte/christianbanken.de/client/assets/modules",
+			"/home/christian/projekte/lenslist/app/modules/sf6import/controller",
+			"/home/christian/projekte/lenslist/app",
+			"<open folders>",
+			"/home/christian/projekte/app-server/app",
+			"/home/christian/projekte/app-client/client",
+			"<project>",
+			"/home/christian/projekte/lenslist_v2",
+			"<project>",
+			"/home/christian/projekte/lenslist_v2",
+			"<project>",
+			"/home/christian/projekte/lenslist.de-app/modules/userprices",
+			"<project>",
+			"/home/christian/projekte/lenslist.de-app",
+			"<project>",
+			"/home/christian/projekte/lenslist.de-app",
+			"<project>",
+			"/home/christian/projekte/lenslist.de-app",
+			"/home/christian/projekte/lenslist.de_meanjs04/modules/lenslist/client/views",
+			"/home/christian/projekte/lenslist.de_meanjs04/modules/lenslist/server/controllers/lenslist.server.controller.js,/home/christian/projekte/lenslist.de_meanjs04/modules/lenslist/server/policies/lenslist.server.policy.js,/home/christian/projekte/lenslist.de_meanjs04/modules/lenslist/server/routes/lenslist.server.routes.js",
+			"/home/christian/projekte/lenslist.de_meanjs04/modules/lenslist/server",
+			"/home/christian/projekte/lenslist.de_meanjs04/modules/lenslist"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"saveUpdateDate",
+			"keyCompletition:true",
+			"busin",
+			"toText",
+			"from",
+			"objectType",
+			"path",
+			"var request",
+			"textarea",
+			"searchValueNotExecuted",
+			"_searchValueNotExecuted",
+			"searchValueNotExecuted",
+			"setTimeSpanChangedTimestamp",
+			"njQueryEntry",
+			"last",
+			"searchValue",
+			"contenteditable",
+			"$filter('translate')(",
+			"::",
+			"row",
+			"flex",
+			"nj-logging-view",
+			"save",
+			"value",
+			"searchValueExtended",
+			"searchValueNotExecuted",
+			"NjQueryEntryBinding",
+			"path",
+			"njBindingState",
+			"query",
+			"saveQuery",
+			"loadQuery",
+			"njElasticQueryApi",
+			"scope.$watch",
+			"saveFn",
+			"eslint-disable",
+			"BindingState",
+			"container-settings",
+			"roleIds",
+			"domainObjectIds",
+			"njProperties",
+			"container-setting",
+			"njMain.state",
+			"njMain.",
+			"next",
+			"$scope.vm.next",
+			"$scope.vm.previous",
+			"njElasticQueryEditInterval",
+			"filter",
+			"$interval",
+			"moment",
+			"njContainerFactory",
+			"Autoc",
+			"isShared",
+			"showSettings",
+			"njElasticQueryApi",
+			".nj-btn",
+			"md-dialog",
+			"e.put",
+			"container-settings",
+			"e.put",
+			"<div class=\"nj-trace-settings\"><form name=\"t",
+			"njInputMappingTree",
+			"date",
+			"njProcessDetailsInputMapping",
+			"registerMenuItem",
+			"registerContainer",
+			"keyCompletition:true",
+			" nextElement",
+			" previousElement",
+			"nextElement",
+			"previousElement",
+			"toggledUp",
+			"toggledDown",
+			"toggledRight",
+			"toggledLeft",
+			"toggled",
+			"processContainedr",
+			"activities.input",
+			"activities.eventCode",
+			"resize",
+			"loadedQuery",
+			"queryEntry",
+			"domainObjectType",
+			"_queryParams",
+			"textcomplete",
+			"ListView",
+			"Text",
+			"ngText",
+			"4",
+			"internal",
+			"string (fulltext)",
+			"^\\w\\s",
+			"peg$SyntaxError",
+			"peg$parse",
+			"memoize",
+			"call",
+			"}",
+			"'null'",
+			",",
+			",\n    {long:'domainObjectLevel,dl,null\n    {long:'processName,pn,null\n    {long:'engineName,en,null\n    {long:'applicationName,an,null\n    {long:'domainName,dn,null\n    {long:'attributeName,an,null\n    {long:'attributeValue,av,null\n    {long:'status,sp,processStatus\n    {long:'correlationStatus,sc,null\n    {long:'processflowStatus,sf,null\n    {long:'processflowStart,fs,null\n    {long:'processflowEnd,fe,null\n    {long:'processflowDuration,fd,null\n    {long:'processStart,ps,nul\n    {long:'processEnd,pe,null\n    {long:'processDuration,pd,null\n    {long:'payload,pl,null\n    {long:'stacktrace,st,null\n    {long:'eventMesg,em,null\n    {long:'eventMesgCode,ec,null\n    {long:'trace,tr,null\n    {long:'replayed,null,null\n    {long:'njamsClientName,null,null\n    {long:'njamsClientVersion,null,null\n    {long:'njamsPluginName,null,null\n    {long:'njamsPluginVersion,null,null",
+			"    {long:'domainObjectName,do,null\n    {long:'domainObjectLevel,dl,null\n    {long:'processName,pn,null\n    {long:'engineName,en,null\n    {long:'applicationName,an,null\n    {long:'domainName,dn,null\n    {long:'attributeName,an,null\n    {long:'attributeValue,av,null\n    {long:'status,sp,processStatus\n    {long:'correlationStatus,sc,null\n    {long:'processflowStatus,sf,null\n    {long:'processflowStart,fs,null\n    {long:'processflowEnd,fe,null\n    {long:'processflowDuration,fd,null\n    {long:'processStart,ps,nul\n    {long:'processEnd,pe,null\n    {long:'processDuration,pd,null\n    {long:'payload,pl,null\n    {long:'stacktrace,st,null\n    {long:'eventMesg,em,null\n    {long:'eventMesgCode,ec,null\n    {long:'trace,tr,null\n    {long:'replayed,null,null\n    {long:'njamsClientName,null,null\n    {long:'njamsClientVersion,null,null\n    {long:'njamsPluginName,null,null\n    {long:'njamsPluginVersion,null,null",
+			"6-13_1_Start.svg",
+			"6-13",
+			"sc-date-time",
+			"match",
+			"searchQuery",
+			"blur",
+			"highlightText",
+			"resetScroll",
+			"lastSa",
+			"value",
+			"_value",
+			"timefr",
+			"log",
+			"njElasticQueryQuerySaver",
+			");\n",
+			"object",
+			"njElasticQueryQueryLoader",
+			"rel",
+			"path",
+			"updatedModel",
+			"controller: func",
+			"function[^(]*\\(([^)]*)\\)",
+			"/function[^(]*\\(([^)]*)\\)/",
+			"(/\\((.*?)\\)/)",
+			"(\\s*([^)]+?)\\s*\\)",
+			"/\\(\\s*([^)]+?)\\s*\\)/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"saveState",
+			"loadState",
+			"njStateSaveApi",
+			"njBindingState",
+			"nextContainer",
+			"previousContainer",
+			"$scope.vm.next.element",
+			"$scope.vm.previous.element",
+			"$scope.vm.next.element",
+			"$scope.vm.previous.element",
+			"$scope.vm.previous.toggled",
+			"$scope.vm.next.toggled",
+			"$scope.vm.previous.toggled",
+			"fulltext",
+			",\\n",
+			"",
+			"$P300",
+			"$P700",
+			"$P50",
+			"$P500",
+			"njTimepickerI18n",
+			"njTimepickerConfig",
+			"'",
+			"",
+			"1.5rem",
+			"",
+			"validFromModifier",
+			"newValue",
+			"$log.debug",
+			"newValue",
+			"",
+			"$log.debug",
+			"",
+			"newValue",
+			"2",
+			"lipsum5000",
+			"<ui-layout animate=\"false\" ",
+			"app.njUserAdministration",
+			"njAdministration",
+			"user",
+			"User",
+			"Name",
+			"name",
+			" ;",
+			"",
+			"'",
+			"",
+			">",
+			"",
+			"www/res/",
+			"www/res",
+			"templates/",
+			"/templates/",
+			"edeka-windmann.de/wp-content/uploads",
+			"uploads",
+			"edeka-windmann.de",
+			"",
+			"ChicoApp",
+			"",
+			"repopulate",
+			"init",
+			"temp",
+			"DEMO_BUTTON_",
+			"kollektionen",
+			"Fassungen",
+			"fassungen",
+			"$vapor",
+			"tutorial",
+			"color: ",
+			"tutorial-",
+			" tutorial",
+			"Text Domain: tutorial",
+			"tutorial_",
+			"'tutorial'",
+			"rq",
+			"",
+			"rq",
+			"$c-green",
+			"'",
+			"usermanagementController",
+			"'",
+			"",
+			"lens",
+			"debug",
+			"'",
+			"&&",
+			"header>",
+			"small-3 text-left",
+			"div",
+			"grid-content small-6 shrink",
+			"",
+			"fa fa-times",
+			"fa fa-check",
+			"lens.",
+			"combination.",
+			"div>",
+			"coreSwipeCloseMenu",
+			"button expand text-left",
+			"sf6importController",
+			"authController",
+			"middleware",
+			"userManagementController",
+			"&nbsp;&nbsp;",
+			"'",
+			"",
+			"UserFactory",
+			"'",
+			"",
+			"authController",
+			"redis",
+			"./www",
+			"'",
+			"mongooseUri",
+			"Lenslist",
+			"lenslist",
+			"'",
+			"mongooseUri",
+			"httpsPort",
+			"httpPort",
+			"userprice",
+			"userprices",
+			"Userprice",
+			"Userprices",
+			"Userprice",
+			"userprice",
+			"Passwort wiederholen",
+			"neues Passwort",
+			"aktuelles Passwort"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 416.0
+	},
+	"output.git":
+	{
+		"height": 286.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 424.0
+	},
+	"pinned_build_system": "",
+	"project": "socially.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"timep",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepickerEntries.factory.js"
+			],
+			[
+				"njela",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.js"
+			],
+			[
+				"querypa",
+				"nj-frontend/src/app/njMain/njElasticQuery/njQueryParams.model.js"
+			],
+			[
+				"queryen",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njelas",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.js"
+			],
+			[
+				"njreports",
+				"nj-frontend/src/app/njReports/njReportsInterval/njReportsInterval.js"
+			],
+			[
+				"autocom",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryAutocomplete.factory.js"
+			],
+			[
+				"njreportsin",
+				"nj-frontend/src/app/njReports/njReportsInterval/njReportsInterval.js"
+			],
+			[
+				"interval.",
+				"nj-frontend/src/app/njReports/njReportsInterval/njReportsInterval.html"
+			],
+			[
+				"njreportsintervalstats",
+				"nj-frontend/src/app/njReports/njReportsIntervalStats/njReportsIntervalStats.js"
+			],
+			[
+				"njrue",
+				"nj-frontend/src/app/njRules/njRules.html"
+			],
+			[
+				"resize",
+				"nj-frontend/src/app/njLayout/njLayout.resizer.directive.js"
+			],
+			[
+				"bower",
+				"nj-frontend/bower.json"
+			],
+			[
+				"njrepo",
+				"nj-frontend/src/app/njReports/njReports.html"
+			],
+			[
+				"njlay",
+				"nj-frontend/src/app/njLayout/njLayout.resizer.directive.js"
+			],
+			[
+				"njru",
+				"nj-frontend/src/app/njRules/njRules.html"
+			],
+			[
+				"index",
+				"nj-frontend/src/index.html"
+			],
+			[
+				"njcontain",
+				"nj-frontend/src/app/njLayout/njContainer/njContainer.factory.js"
+			],
+			[
+				"njproc",
+				"nj-frontend/src/app/njMain/njProcess/njProcess.js"
+			],
+			[
+				"njdetai",
+				"nj-frontend/src/app/njMain/njDetails/css/njDetails.scss"
+			],
+			[
+				"njcon",
+				"nj-frontend/src/app/njLayout/njContainer/njContainer.html"
+			],
+			[
+				"njproceesdetailsc",
+				"nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsConfig/njProcessDetailsConfig.js"
+			],
+			[
+				"njmain",
+				"nj-frontend/src/app/njMain/njMain.html"
+			],
+			[
+				"querypar",
+				"nj-frontend/src/app/njMain/njElasticQuery/njQueryParams.model.js"
+			],
+			[
+				"njrulehtml",
+				"nj-frontend/src/app/njRules/njRulesAction/njRulesAction.html"
+			],
+			[
+				"njlist.j",
+				"nj-frontend/src/app/njMain/njListContainer/njList/njList.js"
+			],
+			[
+				"queryenr",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njel",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.js"
+			],
+			[
+				"nje",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.js"
+			],
+			[
+				"njlo",
+				"nj-frontend/src/app/njLogin/njLogin.js"
+			],
+			[
+				"njconfigurationfactory",
+				"nj-frontend/src/app/njLogin/njConfigurationFactory.js"
+			],
+			[
+				"njhe",
+				"nj-frontend/src/app/njHeader/njHeader.html"
+			],
+			[
+				"datapro",
+				"nj-frontend/src/app/njAdministration/njDataProviderAdmin/njDataProviderAdminFactory.js"
+			],
+			[
+				"njdataprovideradminlist.js",
+				"nj-frontend/src/app/njAdministration/njDataProviderAdmin/njDataProviderAdminList/njDataProviderAdminList.js"
+			],
+			[
+				"njtimepick",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepickerEntries.factory.js"
+			],
+			[
+				"njuseradminfactory.spec.js",
+				"nj-frontend/src/app/njAdministration/njUserAdmin/njUserAdminFactory.spec.js"
+			],
+			[
+				"njuserf",
+				"nj-frontend/src/app/njUser/njUser.userFactory.js"
+			],
+			[
+				"njlogin",
+				"nj-frontend/src/app/njLogin/njLogin.html"
+			],
+			[
+				"queryent",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"bindings",
+				"nj-frontend/src/app/njAppState/njBindingState.factory.js"
+			],
+			[
+				"njrule",
+				"nj-frontend/src/app/njRules/njRules.html"
+			],
+			[
+				"njprope",
+				"nj-frontend/src/app/njProperties/njProperties.html"
+			],
+			[
+				"njprocessdetails.",
+				"nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetails.html"
+			],
+			[
+				"querystring.mo",
+				"nj-frontend/src/app/njMain/njElasticQuery/njQueryString.model.js"
+			],
+			[
+				"querent",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njnotifications.apifactory.js",
+				"nj-frontend/src/app/njNotifications/njNotifications.apiFactory.js"
+			],
+			[
+				"querybin",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njtre",
+				"nj-frontend/src/app/njMain/njTree/njTree/njTree.js"
+			],
+			[
+				"njqueryentr",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njrepor",
+				"nj-frontend/src/app/njReports/njReports.html"
+			],
+			[
+				"reports",
+				"nj-frontend/src/app/njReports/njReports.js"
+			],
+			[
+				"njelasticquery.",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.html"
+			],
+			[
+				"njprocess.",
+				"nj-frontend/src/app/njMain/njProcess/njProcess.js"
+			],
+			[
+				"querysavet",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryButtons/njElasticQueryQuerySaverToggle.js"
+			],
+			[
+				"bindins",
+				"nj-frontend/src/app/njAppState/njBindingState.factory.js"
+			],
+			[
+				"elasticq",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQuery.js"
+			],
+			[
+				"njqueryentry",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"timepicker",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepickerEntries.factory.js"
+			],
+			[
+				"njnotificationlist",
+				"nj-frontend/src/app/njAdministration/njNotificationList/njNotificationList.js"
+			],
+			[
+				"njqueryobjectfactory",
+				"nj-frontend/src/app/njProperties/njQueryObjectProperties/njQueryObjectFactory.js"
+			],
+			[
+				"njpro",
+				"nj-frontend/src/app/njProperties/njProperties.html"
+			],
+			[
+				"njprocessdiagram.js",
+				"nj-frontend/src/app/njMain/njProcess/njProcessDiagram/njProcessDiagram.js"
+			],
+			[
+				"njlistitem.model",
+				"nj-frontend/src/app/njMain/njListContainer/njList/njListItem/njListItem.model.js"
+			],
+			[
+				"njrep",
+				"nj-frontend/src/app/njReports/njReports.js"
+			],
+			[
+				"njlistitem.model.js",
+				"nj-frontend/src/app/njMain/njListContainer/njList/njListItem/njListItem.model.js"
+			],
+			[
+				"njprocessdetailsfollowup",
+				"nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsFollowUp/njProcessDetailsFollowUp.js"
+			],
+			[
+				"njcontainer",
+				"nj-frontend/src/app/njLayout/njContainer/njContainer.factory.js"
+			],
+			[
+				"mainen",
+				"nj-frontend/src/app/njMain/njMain.NjMainEntryBinding.model.js"
+			],
+			[
+				"njelasticqueryap",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryApi.factory.js"
+			],
+			[
+				"resizer.",
+				"nj-frontend/src/app/njLayout/njLayout.resizer.directive.js"
+			],
+			[
+				"njcont",
+				"nj-frontend/src/app/njLayout/njContainer/njContainer.js"
+			],
+			[
+				"autocomplete.fa",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryAutocomplete.factory.js"
+			],
+			[
+				"njrulesmenu.js",
+				"nj-frontend/src/app/njRules/njRulesMenu/njRulesMenu.js"
+			],
+			[
+				"njdomainobjectpropertiespermissions.js",
+				"nj-frontend/src/app/njProperties/njDomainObjectPropertiesPermissions/njDomainObjectPropertiesPermissions.js"
+			],
+			[
+				"njprop",
+				"nj-frontend/src/app/njProperties/njProperties.js"
+			],
+			[
+				"njrul",
+				"nj-frontend/src/app/njRules/njRules.js"
+			],
+			[
+				"njcontainerf",
+				"nj-frontend/src/app/njLayout/njContainer/njContainer.factory.js"
+			],
+			[
+				"querybindin",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njelasentrbin",
+				"nj-frontend/coverage/PhantomJS 2.1.1 (Linux 0.0.0)/app/njMain/njMain.njProcessEntryBinding.model.js.html"
+			],
+			[
+				"timepick",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryTimepickerEntries.factory.js"
+			],
+			[
+				"njautocompletefac",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryAutocomplete.factory.js"
+			],
+			[
+				"njmainui",
+				"nj-frontend/src/app/njMain/njMain.njMainUiBinding.model.js"
+			],
+			[
+				"njproce",
+				"nj-frontend/src/app/njMain/njProcess/njProcess.html"
+			],
+			[
+				"queryentr",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"autocompletef",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryAutocomplete.factory.js"
+			],
+			[
+				"njdomainpropp",
+				"nj-frontend/src/app/njProperties/njDomainObjectPropertiesPermissions/njDomainObjectPropertiesPermissions.js"
+			],
+			[
+				"inputm",
+				"nj-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsInputMapping/njProcessDetailsInputMapping.js"
+			],
+			[
+				"properties.h",
+				"nj-frontend/src/app/njProperties/njProperties.html"
+			],
+			[
+				"njmain.",
+				"nj-frontend/src/app/njMain/njMain.html"
+			],
+			[
+				"njrules.",
+				"nj-frontend/src/app/njRules/njRules.html"
+			],
+			[
+				"njr",
+				"nj-frontend/src/app/njRules/njRules.js"
+			],
+			[
+				"njresizer",
+				"nj-frontend/src/app/njLayout/njLayout.resizer.directive.js"
+			],
+			[
+				"autocomplete.",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryAutocomplete.factory.js"
+			],
+			[
+				"autocomplete.f",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryAutocomplete.factory.js"
+			],
+			[
+				"njmain.js",
+				"nj-frontend/src/app/njMain/njMain.js"
+			],
+			[
+				"njrulesm",
+				"nj-frontend/src/app/njRules/njRulesMenu/njRulesMenu.js"
+			],
+			[
+				"index.scs",
+				"nj-frontend/src/assets/css/index.scss"
+			],
+			[
+				"elas",
+				"nj-frontend/bower_components/angular-elastic/elastic.js"
+			],
+			[
+				"njtree",
+				"nj-frontend/src/app/njMain/njTree/njTree/njTree.js"
+			],
+			[
+				"njelhi",
+				"nj-frontend/src/app/njMain/njElasticQuery/njElasticQueryHistory/njElasticQueryHistory.factory.js"
+			],
+			[
+				"user",
+				"nj-frontend/src/app/njUser/njUser.userFactory.js"
+			],
+			[
+				"userfa",
+				"nj-frontend/src/app/njUser/njUser.userFactory.js"
+			],
+			[
+				"index.run",
+				"nj-frontend/src/app/index.run.js"
+			],
+			[
+				"eventsfac",
+				"nj-frontend/src/app/njMain/njProcess/njEvents/njEventsFactory.spec.js"
+			],
+			[
+				"processfspe",
+				"nj-frontend/src/app/njMain/njProcess/njProcessFactory.spec.js"
+			],
+			[
+				"njsea",
+				"nj-frontend/src/app/njSearch/njSearch.factory.js"
+			],
+			[
+				"searchsp",
+				"nj-frontend/src/app/njSearch/njSearchFactory.spec.js"
+			],
+			[
+				"querentr",
+				"nj-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njlog",
+				"nj-frontend/src/app/njLogin/njLoginFactory.js"
+			],
+			[
+				"index.sc",
+				"nj-frontend/src/assets/css/index.scss"
+			],
+			[
+				"paths",
+				"nj-frontend/src/assets/css/paths.scss"
+			],
+			[
+				"njlistcon",
+				"njams4-frontend/src/app/njMain/njListContainer/njListContainer.js"
+			],
+			[
+				"njquerent",
+				"njams4-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				".dire",
+				"njams4-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryInput.directive.js"
+			],
+			[
+				"njlistfoot",
+				"njams4-frontend/src/app/njMain/njListContainer/njListFooter/njListFooter.js"
+			],
+			[
+				"njuseradminfa",
+				"njams4-frontend/src/app/njAdministration/njUserAdmin/njUserAdminFactory.js"
+			],
+			[
+				"njprocessdetailfo",
+				"njams4-frontend/src/app/njMain/njDetails/njProcessDetails/njProcessDetailsFollowUp/njProcessDetailsFollowUp.js"
+			],
+			[
+				"njtreeitemmodel",
+				"njams4-frontend/src/app/njMain/njTree/njTreeItem/njTreeItem.model.js"
+			],
+			[
+				"njprocessdiagramm",
+				"njams4-frontend/src/app/njMain/njProcess/njProcessDiagramMock/njProcessDiagramMock.js"
+			],
+			[
+				"njlist",
+				"njams4-frontend/src/app/njMain/njListContainer/njList/njList.js"
+			],
+			[
+				"njtreeitemmo",
+				"njams4-frontend/src/app/njMain/njTree/njTreeItem/njTreeItem.model.js"
+			],
+			[
+				"njtree.s",
+				"njams4-frontend/src/app/njMain/njTree/njTree/njTree.js"
+			],
+			[
+				"input.d",
+				"njams4-frontend/src/app/njMain/njElasticQuery/njElasticQueryInput/njElasticQueryInput.directive.js"
+			],
+			[
+				"njheadf",
+				"njams4-frontend/src/app/njHeader/njHeaderFactory.js"
+			],
+			[
+				"config",
+				"njams4-frontend/src/app/njLogin/njConfigurationFactory.js"
+			],
+			[
+				"queren",
+				"njams4-frontend/src/app/njMain/njMain.njQueryEntryBinding.model.js"
+			],
+			[
+				"njnot",
+				"njams4-frontend/src/app/njNotifications/njNotifications.notificationFactory.js"
+			],
+			[
+				"notfifa",
+				"njams4-frontend/src/app/njNotifications/njNotifications.apiFactory.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projekte/Allianz-App/allianz-app.sublime-project"
+			],
+			[
+				"al",
+				"~/projekte/Allianz-App/allianz-app.sublime-project"
+			],
+			[
+				"sa",
+				"~/projekte/saalfeld/salfeld.sublime-project"
+			],
+			[
+				"a",
+				"~/projekte/_sublime-projectfiles/allianzapp.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
