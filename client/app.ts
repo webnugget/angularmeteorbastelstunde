@@ -13,8 +13,6 @@ import {MeteorComponent} from 'angular2-meteor';
 })
 class Socially extends MeteorComponent implements OnInit  {
 	parties: Mongo.Cursor<any>;
-	observeHandle;
-	collection;
 
 	constructor () {
 		super();	
@@ -23,26 +21,15 @@ class Socially extends MeteorComponent implements OnInit  {
 
 	ngOnInit(){
 
-		// this.autorun(() => {
-		// 	console.log('autorun');
-		// 	this.subscribe('parties', () => {
-		// 		this.parties = Parties.find({});
-		// 		console.log('joschi');
-		// 	}, true);
-		// }, true);
+		this.autorun(() => {
+			console.log('autorun');
+			this.subscribe('parties', () => {
+				this.parties = Parties.find({});
+				console.log('joschi');
+			}, true);
+		}, true);
 		
-		
-		this.collection = Parties.find();
-
-		this.observeHandle = this.collection.observeChanges({
-			addedBefore: function(id, field, before) {
-
-			},
-			changed: function(id, fields) {
-				console.log('test', id, fields);
-			}
-		});	
-	 	
+	
 	}
 
 
