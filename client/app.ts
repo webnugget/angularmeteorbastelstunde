@@ -17,15 +17,15 @@ class Socially extends MeteorComponent implements OnInit  {
 	parties: Mongo.Cursor<Party>;
 
 	constructor () {
-		super();	
+		super();
 	}
 
 	ngOnInit(){
-		this.autorun(() => {
+		console.log('init Socially');
 			this.subscribe('parties', () => {
 				this.parties = PartyCollection.find({});
 			}, true);
-		}, true);	
+
 	}
 
 	addParty(){
